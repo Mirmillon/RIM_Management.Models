@@ -1,0 +1,1 @@
+﻿A collection of classes related to the definition of document-based communication in HL7, as represented by the Clinical Document Architecture standards.

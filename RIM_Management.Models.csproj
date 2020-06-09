@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EHR_Management.Models\EHR_Management.Models.csproj" />
+    <ProjectReference Include="..\FhirManagementModels\FHIR_Management.Models.csproj" />
+    <ProjectReference Include="..\MOS_Management.Models\MOS_Management.Models.csproj" />
+  </ItemGroup>
+
+</Project>

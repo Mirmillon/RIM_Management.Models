@@ -1,0 +1,1 @@
+﻿A collection of classes including the Act class and its specializations.  These relate to the actions and events that constitute health care services.
